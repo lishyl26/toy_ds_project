@@ -1,2 +1,3 @@
 # toy_ds_project
-intro to version control in DSCI 100 2024
+
+project creation date: Feb 5, 2024
